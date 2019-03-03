@@ -1,9 +1,9 @@
 # Shih-Ming Hsieh 謝時銘
 
 
-電話 : +886-989-550658
-電子信箱 : shihming.hsieh@gmail.com
-作品呈現 : https://bevis00.github.io/Resume/index.html
+電話 : +886-989-550658  
+電子信箱 : shihming.hsieh@gmail.com  
+作品呈現 : https://bevis00.github.io/Resume/index.html  
 
 
 #### 簡介
