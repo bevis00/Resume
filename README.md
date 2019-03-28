@@ -11,14 +11,14 @@
 
 #### 專長
 - 開發技能
-  - JavaScript (ES5 / ES6) / HTML5 / CSS / WebGL
+  - BootstrapVue / Vue / JavaScript (ES5 / ES6) / HTML5 / CSS / WebGL
   - 電腦圖學 / 3D動畫
   - 獨立前後端串接經驗
 - 開發工具
-  - 基礎git操作
-  - Markdown文件開發、撰寫
+  - Git開發版控、靜態網頁輸出
+  - Webpack專案建立、編譯打包
   - 使用開發者工具動態檢測及除錯
-  - 運用jsfiddle進行先行測試
+  - Markdown文件開發、撰寫
   - 透過SQL對資料庫進行基礎CRUD操作
   
 #### 大學專題
